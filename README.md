@@ -95,7 +95,7 @@ curl -X GET "http://localhost:8000/magnificent-7/team/1"
 ### 1. CD to Repository
 
 ```bash
-cd magnificent-7-api
+cd magnificent-7
 ```
 
 ### 2. Install Dependencies
@@ -119,7 +119,7 @@ You can visit:
 - **Swagger UI**: `http://127.0.0.1:8000/docs`
 - **ReDoc**: `http://127.0.0.1:8000/redoc`
 
-You can also test the API using `curl` or Postman.
+You can also test the API using `curl` or Postman or go to the endpoint in your browser.
 
 ## Running Tests
 
